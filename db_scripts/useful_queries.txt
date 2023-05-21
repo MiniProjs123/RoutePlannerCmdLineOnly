@@ -1,0 +1,1 @@
+select count(station_name), station_name from zone_stage group by station_name having count(station_name) > 1;

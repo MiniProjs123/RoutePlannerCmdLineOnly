@@ -1,0 +1,113 @@
+----------------------------------------------------
+STAGE 1: UPDATE CORE ROUTE FINDER CODE [2009 code]
+
+- OK get the old actual routefinder functionality working from the 
+     command line
+
+- OK implement logging and properties
+
+- OK clean commented out code and identify some of the 
+     particularly obvious faults with TODOs 
+
+- OK identify and implement where code code be better organized
+  
+- there could be better user input validation & processing, 
+  converting input to upper case
+
+- draw up basic model diagram
+
+- identify tests, improvements and j8 constructs and other
+  work that needs doing
+
+- implement updates
+
+- add javadocs
+
+----------------------------------------------------
+STAGE 2: DESIGN 
+
+- setup MySQL database
+
+- determine page flow of extended version
+  - shopping cart functionality
+  - admin corner
+
+- map functionality, logic and conditions at each step
+
+- there maybe a serious design flaw with ticket zones.
+  How are they used? Is consideration taken over the fact that
+  some stations are in more than 1 zone?! 
+
+- add constraints to ddl 
+
+- document features and areas of extension:
+  - motorway network
+  - alternative to Djikstra
+  - different info from 
+  - new input formats etc
+    
+----------------------------------------------------
+STAGE 3: SHELLS
+
+- Struts 2 / Spring Boot
+- Spring MVC 5 / Spring Boot
+- Vaadin v7?
+
+- spring security for login and role based authority
+- basic navigation to all pages with html text description
+- logging setup to project folder
+- database connectivity setup
+- properties files access
+- internationalization
+- validation
+- test stubs
+- initial javadocs
+- css + js plugged in
+
+----------------------------------------------------
+STAGE 4: STRUCTURAL IMPLEMENTATION
+
+Get the apps working - ugly but fully functionality
+
+- Struts 2 / Spring Boot
+- Spring MVC 5 / Spring Boot
+- Vaadin v7?
+
+----------------------------------------------------
+STAGE 5: BEAUTIFY
+
+- update knowledge of HTML5, CSS, JQuery, javascript 
+- create 3 different front end themes and designs
+- update the application front ends
+
+----------------------------------------------------
+STAGE 6: 
+
+- setup liquibase or some database versioning tool 
+- setup a reporting facility with JasperReports
+- threadpools for jobs
+- profiling utility of some sort
+
+----------------------------------------------------
+
+
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

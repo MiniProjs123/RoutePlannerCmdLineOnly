@@ -1,0 +1,13 @@
+---------------------------------------------------------------
+ORIGINAL 2008 VERSION (RoutePlanner only, and cmdline interface)
+
+1) INPUT DATA: LOAD UNDERGROUND MAP DATA 
+
+2) GET USER INPUT
+
+3) CALCULATE AND RETRIEVE THE SHORTEST ROUTE OPTIONS
+
+4) DISPLAY RESULTS TO USER
+
+---------------------------------------------------------------
+

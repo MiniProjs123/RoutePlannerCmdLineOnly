@@ -1,0 +1,951 @@
+<?xml version="1.0"?>
+<network>
+	<line name="Bakerloo">
+		<station>Harrow and Wealdstone</station>
+		<station>Kenton</station>
+		<station>South Kenton</station>
+		<station>North Wembley</station>
+		<station>Wembley Central</station>
+		<station>Stonebridge Park</station>
+		<station>Harlesden</station>
+		<station>Willesden Junction</station>
+		<station>Kensal Green</station>
+		<station>Queen's Park</station>
+		<station>Kilburn Park</station>
+		<station>Maida Vale</station>
+		<station>Warwick Avenue</station>
+		<station>Paddington</station>
+		<station>Edgware Road</station>
+		<station>Marylebone</station>
+		<station>Baker Street</station>
+		<station>Regent's Park</station>
+		<station>Oxford Circus</station>
+		<station>Piccadilly Circus</station>
+		<station>Charing Cross</station>
+		<station>Embankment</station>
+		<station>Waterloo</station>
+		<station>Lambeth North</station>
+		<station>Elephant and Castle</station>
+	</line>
+	<line name="Central (Ruslip-Epping)">
+		<station>West Ruislip</station>
+		<station>Ruislip Gardens</station>
+		<station>South Ruislip</station>
+		<station>Northolt</station>
+		<station>Greenford</station>
+		<station>Perivale</station>
+		<station>Hanger Lane</station>
+		<station>North Acton</station>
+		<station>East Acton</station>
+		<station>White City</station>
+		<station>Shepherd's Bush</station>
+		<station>Holland Park</station>
+		<station>Notting Hill Gate</station>
+		<station>Queensway</station>
+		<station>Lancaster Gate</station>
+		<station>Marble Arch</station>
+		<station>Bond Street</station>
+		<station>Oxford Circus</station>
+		<station>Tottenham Court Road</station>
+		<station>Holborn</station>
+		<station>Chancery Lane</station>
+		<station>St. Paul's</station>
+		<station>Bank</station>
+		<station>Liverpool Street</station>
+		<station>Bethnal Green</station>
+		<station>Mile End</station>
+		<station>Stratford</station>
+		<station>Leyton</station>
+		<station>Leytonstone</station>
+		<station>Snaresbrook</station>
+		<station>South Woodford</station>
+		<station>Woodford</station>
+		<station>Buckhurst Hill</station>
+		<station>Loughton</station>
+		<station>Debden</station>
+		<station>Theydon Bois</station>
+		<station>Epping</station>
+	</line>
+	<line name="Central (Ruslip-Woodford)">
+		<station>West Ruislip</station>
+		<station>Ruislip Gardens</station>
+		<station>South Ruislip</station>
+		<station>Northolt</station>
+		<station>Greenford</station>
+		<station>Perivale</station>
+		<station>Hanger Lane</station>
+		<station>North Acton</station>
+		<station>East Acton</station>
+		<station>White City</station>
+		<station>Shepherd's Bush</station>
+		<station>Holland Park</station>
+		<station>Notting Hill Gate</station>
+		<station>Queensway</station>
+		<station>Lancaster Gate</station>
+		<station>Marble Arch</station>
+		<station>Bond Street</station>
+		<station>Oxford Circus</station>
+		<station>Tottenham Court Road</station>
+		<station>Holborn</station>
+		<station>Chancery Lane</station>
+		<station>St. Paul's</station>
+		<station>Bank</station>
+		<station>Liverpool Street</station>
+		<station>Bethnal Green</station>
+		<station>Mile End</station>
+		<station>Stratford</station>
+		<station>Leyton</station>
+		<station>Leytonstone</station>
+		<station>Wanstead</station>
+		<station>Redbridge</station>
+		<station>Gants Hill</station>
+		<station>Newbury Park</station>
+		<station>Barkingside</station>
+		<station>Fairlop</station>
+		<station>Hainault</station>
+		<station>Grange Hill</station>
+		<station>Chigwell</station>
+		<station>Roding Valley</station>
+		<station>Woodford</station>
+	</line>
+	<line name="Central (Ealing-Epping)">
+		<station>Ealing Broadway</station>
+		<station>West Acton</station>
+		<station>North Acton</station>
+		<station>East Acton</station>
+		<station>White City</station>
+		<station>Shepherd's Bush</station>
+		<station>Holland Park</station>
+		<station>Notting Hill Gate</station>
+		<station>Queensway</station>
+		<station>Lancaster Gate</station>
+		<station>Marble Arch</station>
+		<station>Bond Street</station>
+		<station>Oxford Circus</station>
+		<station>Tottenham Court Road</station>
+		<station>Holborn</station>
+		<station>Chancery Lane</station>
+		<station>St. Paul's</station>
+		<station>Bank</station>
+		<station>Liverpool Street</station>
+		<station>Bethnal Green</station>
+		<station>Mile End</station>
+		<station>Stratford</station>
+		<station>Leyton</station>
+		<station>Leytonstone</station>
+		<station>Snaresbrook</station>
+		<station>South Woodford</station>
+		<station>Woodford</station>
+		<station>Buckhurst Hill</station>
+		<station>Loughton</station>
+		<station>Debden</station>
+		<station>Theydon Bois</station>
+		<station>Epping</station>
+	</line>
+	<line name="Central (Ealing-Woodford)">
+		<station>Ealing Broadway</station>
+		<station>West Acton</station>
+		<station>North Acton</station>
+		<station>East Acton</station>
+		<station>White City</station>
+		<station>Shepherd's Bush</station>
+		<station>Holland Park</station>
+		<station>Notting Hill Gate</station>
+		<station>Queensway</station>
+		<station>Lancaster Gate</station>
+		<station>Marble Arch</station>
+		<station>Bond Street</station>
+		<station>Oxford Circus</station>
+		<station>Tottenham Court Road</station>
+		<station>Holborn</station>
+		<station>Chancery Lane</station>
+		<station>St. Paul's</station>
+		<station>Bank</station>
+		<station>Liverpool Street</station>
+		<station>Bethnal Green</station>
+		<station>Mile End</station>
+		<station>Stratford</station>
+		<station>Leyton</station>
+		<station>Leytonstone</station>
+		<station>Wanstead</station>
+		<station>Redbridge</station>
+		<station>Gants Hill</station>
+		<station>Newbury Park</station>
+		<station>Barkingside</station>
+		<station>Fairlop</station>
+		<station>Hainault</station>
+		<station>Grange Hill</station>
+		<station>Chigwell</station>
+		<station>Roding Valley</station>
+		<station>Woodford</station>
+	</line>
+	<line name="Circle">
+		<station>Edgware Road</station>
+		<station>Baker Street</station>
+		<station>Great Portland Street</station>
+		<station>Euston Square</station>
+		<station>King's Cross St. Pancras</station>
+		<station>Farringdon</station>
+		<station>Barbican</station>
+		<station>Moorgate</station>
+		<station>Liverpool Street</station>
+		<station>Aldgate</station>
+		<station>Tower Hill</station>
+		<station>Monument</station>
+		<station>Cannon Street</station>
+		<station>Mansion House</station>
+		<station>Blackfriars</station>
+		<station>Temple</station>
+		<station>Embankment</station>
+		<station>Westminster</station>
+		<station>St. James's Park</station>
+		<station>Victoria</station>
+		<station>Sloane Square</station>
+		<station>South Kensington</station>
+		<station>Gloucester Road</station>
+		<station>High Street Kensington</station>
+		<station>Notting Hill Gate</station>
+		<station>Bayswater</station>
+		<station>Paddington</station>
+		<station>Edgware Road</station>
+	</line>
+	<line name="District (Kensington-Edgware Road)">
+		<station>Kensington (Olympia)</station>
+		<station>Earl's Court</station>
+		<station>High Street Kensington</station>
+		<station>Notting Hill Gate</station>
+		<station>Bayswater</station>
+		<station>Paddington</station>
+		<station>Edgware Road</station>
+	</line>
+	<line name="District (Ealing-Upminster)">
+		<station>Ealing Broadway</station>
+		<station>Ealing Common</station>
+		<station>Acton Town</station>
+		<station>Chiswick Park</station>
+		<station>Turnham Green</station>
+		<station>Stamford Brook</station>
+		<station>Ravenscourt Park</station>
+		<station>Hammersmith</station>
+		<station>Barons Court</station>
+		<station>West Kensington</station>
+		<station>Earl's Court</station>
+		<station>Gloucester Road</station>
+		<station>South Kensington</station>
+		<station>Sloane Square</station>
+		<station>Victoria</station>
+		<station>St. James's Park</station>
+		<station>Westminster</station>
+		<station>Embankment</station>
+		<station>Temple</station>
+		<station>Blackfriars</station>
+		<station>Mansion House</station>
+		<station>Cannon Street</station>
+		<station>Monument</station>
+		<station>Tower Hill</station>
+		<station>Aldgate East</station>
+		<station>Whitechapel</station>
+		<station>Stepney Green</station>
+		<station>Mile End</station>
+		<station>Bow Road</station>
+		<station>Bromley-by-Bow</station>
+		<station>West Ham</station>
+		<station>Plaistow</station>
+		<station>Upton Park</station>
+		<station>East Ham</station>
+		<station>Barking</station>
+		<station>Upney</station>
+		<station>Becontree</station>
+		<station>Dagenham Heathway</station>
+		<station>Dagenham East</station>
+		<station>Elm Park</station>
+		<station>Hornchurch</station>
+		<station>Upminster Bridge</station>
+		<station>Upminster</station>
+	</line>
+	<line name="District (Richmond-Upminster)">
+		<station>Richmond</station>
+		<station>Kew Gardens</station>
+		<station>Gunnersbury</station>
+		<station>Turnham Green</station>
+		<station>Stamford Brook</station>
+		<station>Ravenscourt Park</station>
+		<station>Hammersmith</station>
+		<station>Barons Court</station>
+		<station>West Kensington</station>
+		<station>Earl's Court</station>
+		<station>Gloucester Road</station>
+		<station>South Kensington</station>
+		<station>Sloane Square</station>
+		<station>Victoria</station>
+		<station>St. James's Park</station>
+		<station>Westminster</station>
+		<station>Embankment</station>
+		<station>Temple</station>
+		<station>Blackfriars</station>
+		<station>Mansion House</station>
+		<station>Cannon Street</station>
+		<station>Monument</station>
+		<station>Tower Hill</station>
+		<station>Aldgate East</station>
+		<station>Whitechapel</station>
+		<station>Stepney Green</station>
+		<station>Mile End</station>
+		<station>Bow Road</station>
+		<station>Bromley-by-Bow</station>
+		<station>West Ham</station>
+		<station>Plaistow</station>
+		<station>Upton Park</station>
+		<station>East Ham</station>
+		<station>Barking</station>
+		<station>Upney</station>
+		<station>Becontree</station>
+		<station>Dagenham Heathway</station>
+		<station>Dagenham East</station>
+		<station>Elm Park</station>
+		<station>Hornchurch</station>
+		<station>Upminster Bridge</station>
+		<station>Upminster</station>
+	</line>
+	<line name="District (Wimbledon-Upminster)">
+		<station>Wimbledon</station>
+		<station>Wimbledon Park</station>
+		<station>Southfields</station>
+		<station>East Putney</station>
+		<station>Putney Bridge</station>
+		<station>Parsons Green</station>
+		<station>Fulham Broadway</station>
+		<station>West Brompton</station>
+		<station>Earl's Court</station>
+		<station>Gloucester Road</station>
+		<station>South Kensington</station>
+		<station>Sloane Square</station>
+		<station>Victoria</station>
+		<station>St. James's Park</station>
+		<station>Westminster</station>
+		<station>Embankment</station>
+		<station>Temple</station>
+		<station>Blackfriars</station>
+		<station>Mansion House</station>
+		<station>Cannon Street</station>
+		<station>Monument</station>
+		<station>Tower Hill</station>
+		<station>Aldgate East</station>
+		<station>Whitechapel</station>
+		<station>Stepney Green</station>
+		<station>Mile End</station>
+		<station>Bow Road</station>
+		<station>Bromley-by-Bow</station>
+		<station>West Ham</station>
+		<station>Plaistow</station>
+		<station>Upton Park</station>
+		<station>East Ham</station>
+		<station>Barking</station>
+		<station>Upney</station>
+		<station>Becontree</station>
+		<station>Dagenham Heathway</station>
+		<station>Dagenham East</station>
+		<station>Elm Park</station>
+		<station>Hornchurch</station>
+		<station>Upminster Bridge</station>
+		<station>Upminster</station>
+	</line>
+	<line name="East London (Shoreditch-New Cross)">
+		<station>Shoreditch</station>
+		<station>Whitechapel</station>
+		<station>Shadwell</station>
+		<station>Wapping</station>
+		<station>Rotherhithe</station>
+		<station>Canada Water</station>
+		<station>Surrey Quays</station>
+		<station>New Cross</station>
+	</line>
+	<line name="East London (Shoreditch-New Cross Gate)">
+		<station>Shoreditch</station>
+		<station>Whitechapel</station>
+		<station>Shadwell</station>
+		<station>Wapping</station>
+		<station>Rotherhithe</station>
+		<station>Canada Water</station>
+		<station>Surrey Quays</station>
+		<station>New Cross Gate</station>
+	</line>
+	<line name="Hammersmith and City">
+		<station>Hammersmith</station>
+		<station>Goldhawk Road</station>
+		<station>Shepherd's Bush</station>
+		<station>Latimer Road</station>
+		<station>Ladbroke Grove</station>
+		<station>Westbourne Park</station>
+		<station>Royal Oak</station>
+		<station>Paddington</station>
+		<station>Edgware Road</station>
+		<station>Baker Street</station>
+		<station>Great Portland Street</station>
+		<station>Euston Square</station>
+		<station>King's Cross St. Pancras</station>
+		<station>Farringdon</station>
+		<station>Barbican</station>
+		<station>Moorgate</station>
+		<station>Liverpool Street</station>
+		<station>Aldgate East</station>
+		<station>Whitechapel</station>
+		<station>Stepney Green</station>
+		<station>Mile End</station>
+		<station>Bow Road</station>
+		<station>Bromley-by-Bow</station>
+		<station>West Ham</station>
+		<station>Plaistow</station>
+		<station>Upton Park</station>
+		<station>East Ham</station>
+		<station>Barking</station>
+	</line>
+	<line name="Jubilee">
+		<station>Stratford</station>
+		<station>West Ham</station>
+		<station>Canning Town</station>
+		<station>North Greenwich</station>
+		<station>Canary Wharf</station>
+		<station>Canada Water</station>
+		<station>Bermondsey</station>
+		<station>London Bridge</station>
+		<station>Southwark</station>
+		<station>Waterloo</station>
+		<station>Westminster</station>
+		<station>Green Park</station>
+		<station>Bond Street</station>
+		<station>Baker Street</station>
+		<station>St. John's Wood</station>
+		<station>Swiss Cottage</station>
+		<station>Finchley Road</station>
+		<station>West Hampstead</station>
+		<station>Kilburn</station>
+		<station>Willesden Green</station>
+		<station>Dollis Hill</station>
+		<station>Neasden</station>
+		<station>Wembley Park</station>
+		<station>Kingsbury</station>
+		<station>Queensbury</station>
+		<station>Canons Park</station>
+		<station>Stanmore</station>
+	</line>
+	<line name="Metropolitan (Chesham-Chalfont)">
+		<station>Chesham</station>
+		<station>Chalfont and Latimer</station>
+	</line>
+	<line name="Metropolitan (Chesham-Aldgate)">
+		<station>Chesham</station>
+		<station>Chalfont and Latimer</station>
+		<station>Chorleywood</station>
+		<station>Rickmansworth</station>
+		<station>Moor Park</station>
+		<station>Northwood</station>
+		<station>Northwood Hills</station>
+		<station>Pinner</station>
+		<station>North Harrow</station>
+		<station>Harrow-on-the-Hill</station>
+		<station>Northwick Park</station>
+		<station>Preston Road</station>
+		<station>Wembley Park</station>
+		<station>Finchley Road</station>
+		<station>Baker Street</station>
+		<station>Great Portland Street</station>
+		<station>Euston Square</station>
+		<station>King's Cross St. Pancras</station>
+		<station>Farringdon</station>
+		<station>Barbican</station>
+		<station>Moorgate</station>
+		<station>Liverpool Street</station>
+		<station>Aldgate</station>
+	</line>
+	<line name="Metropolitan (Amersham-Aldgate)">
+		<station>Amersham</station>
+		<station>Chalfont and Latimer</station>
+		<station>Chorleywood</station>
+		<station>Rickmansworth</station>
+		<station>Moor Park</station>
+		<station>Northwood</station>
+		<station>Northwood Hills</station>
+		<station>Pinner</station>
+		<station>North Harrow</station>
+		<station>Harrow-on-the-Hill</station>
+		<station>Northwick Park</station>
+		<station>Preston Road</station>
+		<station>Wembley Park</station>
+		<station>Finchley Road</station>
+		<station>Baker Street</station>
+		<station>Great Portland Street</station>
+		<station>Euston Square</station>
+		<station>King's Cross St. Pancras</station>
+		<station>Farringdon</station>
+		<station>Barbican</station>
+		<station>Moorgate</station>
+		<station>Liverpool Street</station>
+		<station>Aldgate</station>
+	</line>
+	<line name="Metropolitan (Watford-Aldgate)">
+		<station>Watford</station>
+		<station>Croxley</station>
+		<station>Moor Park</station>
+		<station>Northwood</station>
+		<station>Northwood Hills</station>
+		<station>Pinner</station>
+		<station>North Harrow</station>
+		<station>Harrow-on-the-Hill</station>
+		<station>Northwick Park</station>
+		<station>Preston Road</station>
+		<station>Wembley Park</station>
+		<station>Finchley Road</station>
+		<station>Baker Street</station>
+		<station>Great Portland Street</station>
+		<station>Euston Square</station>
+		<station>King's Cross St. Pancras</station>
+		<station>Farringdon</station>
+		<station>Barbican</station>
+		<station>Moorgate</station>
+		<station>Liverpool Street</station>
+		<station>Aldgate</station>
+	</line>
+	<line name="Metropolitan (Uxbridge-Aldgate)">
+		<station>Uxbridge</station>
+		<station>Hillingdon</station>
+		<station>Ickenham</station>
+		<station>Ruislip</station>
+		<station>Ruislip Manor</station>
+		<station>Eastcote</station>
+		<station>Rayners Lane</station>
+		<station>West Harrow</station>
+		<station>Harrow-on-the-Hill</station>
+		<station>Northwick Park</station>
+		<station>Preston Road</station>
+		<station>Wembley Park</station>
+		<station>Finchley Road</station>
+		<station>Baker Street</station>
+		<station>Great Portland Street</station>
+		<station>Euston Square</station>
+		<station>King's Cross St. Pancras</station>
+		<station>Farringdon</station>
+		<station>Barbican</station>
+		<station>Moorgate</station>
+		<station>Liverpool Street</station>
+		<station>Aldgate</station>
+	</line>
+	<line name="Northern (High Barnett-Morden) via London Bridge">
+		<station>High Barnet</station>
+		<station>Totteridge and Whetstone</station>
+		<station>Woodside Park</station>
+		<station>West Finchley</station>
+		<station>Finchley Central</station>
+		<station>East Finchley</station>
+		<station>Highgate</station>
+		<station>Archway</station>
+		<station>Tufnell Park</station>
+		<station>Kentish Town</station>
+		<station>Camden Town</station>
+		<station>Euston</station>
+		<station>King's Cross St. Pancras</station>
+		<station>Angel</station>
+		<station>Old Street</station>
+		<station>Moorgate</station>
+		<station>Bank</station>
+		<station>London Bridge</station>
+		<station>Borough</station>
+		<station>Elephant and Castle</station>
+		<station>Kennington</station>
+		<station>Oval</station>
+		<station>Stockwell</station>
+		<station>Clapham North</station>
+		<station>Clapham Common</station>
+		<station>Clapham South</station>
+		<station>Balham</station>
+		<station>Tooting Bec</station>
+		<station>Tooting Broadway</station>
+		<station>Colliers Wood</station>
+		<station>South Wimbledon</station>
+		<station>Morden</station>
+	</line>
+	<line name="Northern (Edgware-Morden) via London Bridge">
+		<station>Edgware</station>
+		<station>Burnt Oak</station>
+		<station>Colindale</station>
+		<station>Hendon Central</station>
+		<station>Brent Cross</station>
+		<station>Golders Green</station>
+		<station>Hampstead</station>
+		<station>Belsize Park</station>
+		<station>Chalk Farm</station>
+		<station>Camden Town</station>
+		<station>Euston</station>
+		<station>King's Cross St. Pancras</station>
+		<station>Angel</station>
+		<station>Old Street</station>
+		<station>Moorgate</station>
+		<station>Bank</station>
+		<station>London Bridge</station>
+		<station>Borough</station>
+		<station>Elephant and Castle</station>
+		<station>Kennington</station>
+		<station>Oval</station>
+		<station>Stockwell</station>
+		<station>Clapham North</station>
+		<station>Clapham Common</station>
+		<station>Clapham South</station>
+		<station>Balham</station>
+		<station>Tooting Bec</station>
+		<station>Tooting Broadway</station>
+		<station>Colliers Wood</station>
+		<station>South Wimbledon</station>
+		<station>Morden</station>
+	</line>
+	<line name="Northern (Mill Hill-Morden) via London Bridge">
+		<station>Mill Hill East</station>
+		<station>Finchley Central</station>
+		<station>East Finchley</station>
+		<station>Highgate</station>
+		<station>Archway</station>
+		<station>Tufnell Park</station>
+		<station>Kentish Town</station>
+		<station>Camden Town</station>
+		<station>Euston</station>
+		<station>King's Cross St. Pancras</station>
+		<station>Angel</station>
+		<station>Old Street</station>
+		<station>Moorgate</station>
+		<station>Bank</station>
+		<station>London Bridge</station>
+		<station>Borough</station>
+		<station>Elephant and Castle</station>
+		<station>Kennington</station>
+		<station>Oval</station>
+		<station>Stockwell</station>
+		<station>Clapham North</station>
+		<station>Clapham Common</station>
+		<station>Clapham South</station>
+		<station>Balham</station>
+		<station>Tooting Bec</station>
+		<station>Tooting Broadway</station>
+		<station>Colliers Wood</station>
+		<station>South Wimbledon</station>
+		<station>Morden</station>
+	</line>
+	<line name="Northern (High Barnett-Morden) via Waterloo">
+		<station>High Barnet</station>
+		<station>Totteridge and Whetstone</station>
+		<station>Woodside Park</station>
+		<station>West Finchley</station>
+		<station>Finchley Central</station>
+		<station>East Finchley</station>
+		<station>Highgate</station>
+		<station>Archway</station>
+		<station>Tufnell Park</station>
+		<station>Kentish Town</station>
+		<station>Camden Town</station>
+		<station>Mornington Crescent</station>
+		<station>Euston</station>
+		<station>Warren Street</station>
+		<station>Goodge Street</station>
+		<station>Tottenham Court Road</station>
+		<station>Leicester Square</station>
+		<station>Charing Cross</station>
+		<station>Embankment</station>
+		<station>Waterloo</station>
+		<station>Kennington</station>
+		<station>Oval</station>
+		<station>Stockwell</station>
+		<station>Clapham North</station>
+		<station>Clapham Common</station>
+		<station>Clapham South</station>
+		<station>Balham</station>
+		<station>Tooting Bec</station>
+		<station>Tooting Broadway</station>
+		<station>Colliers Wood</station>
+		<station>South Wimbledon</station>
+		<station>Morden</station>
+	</line>
+	<line name="Northern (Edgware-Morden) via Waterloo">
+		<station>Edgware</station>
+		<station>Burnt Oak</station>
+		<station>Colindale</station>
+		<station>Hendon Central</station>
+		<station>Brent Cross</station>
+		<station>Golders Green</station>
+		<station>Hampstead</station>
+		<station>Belsize Park</station>
+		<station>Chalk Farm</station>
+		<station>Camden Town</station>
+		<station>Mornington Crescent</station>
+		<station>Euston</station>
+		<station>Warren Street</station>
+		<station>Goodge Street</station>
+		<station>Tottenham Court Road</station>
+		<station>Leicester Square</station>
+		<station>Charing Cross</station>
+		<station>Embankment</station>
+		<station>Waterloo</station>
+		<station>Kennington</station>
+		<station>Oval</station>
+		<station>Stockwell</station>
+		<station>Clapham North</station>
+		<station>Clapham Common</station>
+		<station>Clapham South</station>
+		<station>Balham</station>
+		<station>Tooting Bec</station>
+		<station>Tooting Broadway</station>
+		<station>Colliers Wood</station>
+		<station>South Wimbledon</station>
+		<station>Morden</station>
+	</line>
+	<line name="Northern (Mill Hill-Morden) via Waterloo">
+		<station>Mill Hill East</station>
+		<station>Finchley Central</station>
+		<station>East Finchley</station>
+		<station>Highgate</station>
+		<station>Archway</station>
+		<station>Tufnell Park</station>
+		<station>Kentish Town</station>
+		<station>Camden Town</station>
+		<station>Mornington Crescent</station>
+		<station>Euston</station>
+		<station>Warren Street</station>
+		<station>Goodge Street</station>
+		<station>Tottenham Court Road</station>
+		<station>Leicester Square</station>
+		<station>Charing Cross</station>
+		<station>Embankment</station>
+		<station>Waterloo</station>
+		<station>Kennington</station>
+		<station>Oval</station>
+		<station>Stockwell</station>
+		<station>Clapham North</station>
+		<station>Clapham Common</station>
+		<station>Clapham South</station>
+		<station>Balham</station>
+		<station>Tooting Bec</station>
+		<station>Tooting Broadway</station>
+		<station>Colliers Wood</station>
+		<station>South Wimbledon</station>
+		<station>Morden</station>
+	</line>
+	<line name="Piccadilly (Heathrow-Cockfosters)">
+		<station>Heathrow Terminals 1,2,3</station>
+		<station>Heathrow Terminal 4</station>
+		<station>Hatton Cross</station>
+		<station>Hounslow West</station>
+		<station>Hounslow Central</station>
+		<station>Hounslow East</station>
+		<station>Osterley</station>
+		<station>Boston Manor</station>
+		<station>Northfields</station>
+		<station>South Ealing</station>
+		<station>Acton Town</station>
+		<station>Turnham Green</station>
+		<station>Hammersmith</station>
+		<station>Barons Court</station>
+		<station>Earl's Court</station>
+		<station>Gloucester Road</station>
+		<station>South Kensington</station>
+		<station>Knightsbridge</station>
+		<station>Hyde Park Corner</station>
+		<station>Green Park</station>
+		<station>Piccadilly Circus</station>
+		<station>Leicester Square</station>
+		<station>Covent Garden</station>
+		<station>Holborn</station>
+		<station>Russell Square</station>
+		<station>King's Cross St. Pancras</station>
+		<station>Caledonian Road</station>
+		<station>Holloway Road</station>
+		<station>Arsenal</station>
+		<station>Finsbury Park</station>
+		<station>Manor House</station>
+		<station>Turnpike Lane</station>
+		<station>Wood Green</station>
+		<station>Bounds Green</station>
+		<station>Arnos Grove</station>
+		<station>Southgate</station>
+		<station>Oakwood</station>
+		<station>Cockfosters</station>
+	</line>
+	<line name="Piccadilly (Uxbridge-Cockfosters)">
+		<station>Uxbridge</station>
+		<station>Hillingdon</station>
+		<station>Ickenham</station>
+		<station>Ruislip</station>
+		<station>Ruislip Manor</station>
+		<station>Eastcote</station>
+		<station>Rayners Lane</station>
+		<station>South Harrow</station>
+		<station>Sudbury Hill</station>
+		<station>Sudbury Town</station>
+		<station>Alperton</station>
+		<station>Park Royal</station>
+		<station>North Ealing</station>
+		<station>Ealing Common</station>
+		<station>Acton Town</station>
+		<station>Turnham Green</station>
+		<station>Hammersmith</station>
+		<station>Barons Court</station>
+		<station>Earl's Court</station>
+		<station>Gloucester Road</station>
+		<station>South Kensington</station>
+		<station>Knightsbridge</station>
+		<station>Hyde Park Corner</station>
+		<station>Green Park</station>
+		<station>Piccadilly Circus</station>
+		<station>Leicester Square</station>
+		<station>Covent Garden</station>
+		<station>Holborn</station>
+		<station>Russell Square</station>
+		<station>King's Cross St. Pancras</station>
+		<station>Caledonian Road</station>
+		<station>Holloway Road</station>
+		<station>Arsenal</station>
+		<station>Finsbury Park</station>
+		<station>Manor House</station>
+		<station>Turnpike Lane</station>
+		<station>Wood Green</station>
+		<station>Bounds Green</station>
+		<station>Arnos Grove</station>
+		<station>Southgate</station>
+		<station>Oakwood</station>
+		<station>Cockfosters</station>
+	</line>
+	<line name="Victoria">
+		<station>Walthamstow Central</station>
+		<station>Blackhorse Road</station>
+		<station>Tottenham Hale</station>
+		<station>Seven Sisters</station>
+		<station>Finsbury Park</station>
+		<station>Highbury and Islington</station>
+		<station>King's Cross St. Pancras</station>
+		<station>Euston</station>
+		<station>Warren Street</station>
+		<station>Oxford Circus</station>
+		<station>Green Park</station>
+		<station>Victoria</station>
+		<station>Pimlico</station>
+		<station>Vauxhall</station>
+		<station>Stockwell</station>
+		<station>Brixton</station>
+	</line>
+	<line name="Waterloo and City">
+		<station>Waterloo</station>
+		<station>Bank</station>
+	</line>
+	<line name="Docklands Light Railway (Bank-Beckton)">
+		<station>Bank</station>
+		<station>Shadwell</station>
+		<station>Limehouse</station>
+		<station>Westferry</station>
+		<station>Poplar</station>
+		<station>Blackwall</station>
+		<station>East India</station>
+		<station>Canning Town</station>
+		<station>Royal Victoria</station>
+		<station>Custom House For ExCel</station>
+		<station>Prince Regent</station>
+		<station>Royal Albert</station>
+		<station>Beckton Park</station>
+		<station>Cyprus</station>
+		<station>Gallions Reach</station>
+		<station>Beckton</station>
+	</line>
+	<line name="Docklands Light Railway (Bank-Lewisham)">
+		<station>Bank</station>
+		<station>Shadwell</station>
+		<station>Limehouse</station>
+		<station>Westferry</station>
+		<station>West India Quay</station>
+		<station>Canary Wharf</station>
+		<station>Heron Quays</station>
+		<station>South Quay</station>
+		<station>Crossharbour and London Arena</station>
+		<station>Mudchute</station>
+		<station>Island Gardens</station>
+		<station>Cutty Sark For Maritime Greenwich</station>
+		<station>Greenwich</station>
+		<station>Deptford Bridge</station>
+		<station>Elverson Road</station>
+		<station>Lewisham</station>
+	</line>
+	<line name="Docklands Light Railway (Bank-Stratford)">
+		<station>Bank</station>
+		<station>Shadwell</station>
+		<station>Limehouse</station>
+		<station>Westferry</station>
+		<station>Poplar</station>
+		<station>All Saints</station>
+		<station>Devons Road</station>
+		<station>Bow Church</station>
+		<station>Pudding Mill Lane</station>
+		<station>Stratford</station>
+	</line>
+	<line name="Docklands Light Railway (Tower Gateway-Beckton)">
+		<station>Tower Gateway</station>
+		<station>Shadwell</station>
+		<station>Limehouse</station>
+		<station>Westferry</station>
+		<station>Poplar</station>
+		<station>Blackwall</station>
+		<station>East India</station>
+		<station>Canning Town</station>
+		<station>Royal Victoria</station>
+		<station>Custom House For ExCel</station>
+		<station>Prince Regent</station>
+		<station>Royal Albert</station>
+		<station>Beckton Park</station>
+		<station>Cyprus</station>
+		<station>Gallions Reach</station>
+		<station>Beckton</station>
+	</line>
+	<line name="Docklands Light Railway (Tower Gateway-Lewisham)">
+		<station>Tower Gateway</station>
+		<station>Shadwell</station>
+		<station>Limehouse</station>
+		<station>Westferry</station>
+		<station>West India Quay</station>
+		<station>Canary Wharf</station>
+		<station>Heron Quays</station>
+		<station>South Quay</station>
+		<station>Crossharbour and London Arena</station>
+		<station>Mudchute</station>
+		<station>Island Gardens</station>
+		<station>Cutty Sark For Maritime Greenwich</station>
+		<station>Greenwich</station>
+		<station>Deptford Bridge</station>
+		<station>Elverson Road</station>
+		<station>Lewisham</station>
+	</line>
+	<line name="Docklands Light Railway (Tower Gateway-Stratford)">
+		<station>Tower Gateway</station>
+		<station>Shadwell</station>
+		<station>Limehouse</station>
+		<station>Westferry</station>
+		<station>Poplar</station>
+		<station>All Saints</station>
+		<station>Devons Road</station>
+		<station>Bow Church</station>
+		<station>Pudding Mill Lane</station>
+		<station>Stratford</station>
+	</line>
+	<line name="Docklands Light Railway (Stratford-Lewisham)">
+		<station>Stratford</station>
+		<station>Pudding Mill Lane</station>
+		<station>Bow Church</station>
+		<station>Devons Road</station>
+		<station>All Saints</station>
+		<station>Poplar</station>
+		<station>West India Quay</station>
+		<station>Canary Wharf</station>
+		<station>Heron Quays</station>
+		<station>South Quay</station>
+		<station>Crossharbour and London Arena</station>
+		<station>Mudchute</station>
+		<station>Island Gardens</station>
+		<station>Cutty Sark For Maritime Greenwich</station>
+		<station>Greenwich</station>
+		<station>Deptford Bridge</station>
+		<station>Elverson Road</station>
+		<station>Lewisham</station>
+	</line>
+</network>

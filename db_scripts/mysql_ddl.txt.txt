@@ -1,0 +1,102 @@
+drop database if exists routeplanner_shopping;   
+create database routeplanner_shopping;
+use routeplanner_shopping;
+
+create table passenger_types
+(
+    pas_type VARCHAR(15) not null,
+    code VARCHAR(3) primary key
+);
+
+
+
+create table all_registered
+(
+    person_id INTEGER(9) primary key,
+    title VARCHAR(6) not null,
+    firstname VARCHAR(20) not null,
+    initials VARCHAR(7) not null,
+    lastname VARCHAR(30) not null,
+    address_line_1 VARCHAR(40) not null,
+    address_line_2 VARCHAR(30),
+    address_line_3 VARCHAR(30),
+    city VARCHAR(30) not null,
+    region_or_state VARCHAR(30) not null,
+    country VARCHAR(30) not null,
+    email VARCHAR(35) not null,
+    mobile_tel VARCHAR(20),
+    home_tel VARCHAR(20),
+    office_tel VARCHAR(20)
+);
+
+
+
+create table users
+(
+	user_id INTEGER(9) primary key,
+	USER_NAME VARCHAR(15) unique NOT NULL,
+	USER_PASS VARCHAR(15) NOT NULL,
+	FIRST_ENTRY_DATE DATE,
+	STAFF_RESET_PASS DATE,
+	person_id INTEGER(9) references all_registered(person_id)
+);
+
+
+create table user_roles
+(
+	user_id INTEGER(9) references users(user_id),
+	USER_NAME VARCHAR(15) NOT NULL references users(user_name),
+	ROLE_NAME VARCHAR(15) NOT NULL 
+);
+
+
+create table tickets
+(
+    ticket_id INTEGER(12) primary key,
+    ticket_name VARCHAR(30) not null,
+    notes VARCHAR(70),
+    cost_2_zones VARCHAR(6) not null,
+    cost_4_zones VARCHAR(6) not null,
+    cost_6_zones  VARCHAR(6) not null,
+    passenger_code VARCHAR(3) references passenger_types(code),
+    valid_from DATE,		
+    valid_to DATE
+);
+
+
+
+
+create table basket_contents
+(
+    basket_id INTEGER(12) primary key,
+    user_id INTEGER(9) references users(user_id),
+    ticket_id INTEGER(12) references tickets(ticket_id),
+    number_tickets INTEGER(2),
+    passenger_type_code varchar(3) references passenger_types(code),
+    date_of_travel date,
+    number_zones INTEGER(1) not null,
+    the_start varchar(30) not null,
+    destination varchar(30) not null,
+    total_payment varchar(6), 
+    transaction_date date,
+    card_number varchar(16),
+    name_on_card varchar(35),
+    sec_code varchar(3),
+    card_type varchar(20),
+    expiry_date DATE,
+    valid_from DATE,
+    activated CHAR(1)
+);
+
+
+
+create table zone_stage
+(
+	station_name VARCHAR(40) not null,
+	zone VARCHAR(1) not null
+);
+
+
+
+
+
